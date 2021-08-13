@@ -1,4 +1,4 @@
-# first_project
+# document-relevancy assessor
 
 <!-- This is  for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
