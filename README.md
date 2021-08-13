@@ -39,13 +39,12 @@ main()
 
 
 ## Data sources and AI methods
-The training data would come from pdf files or web pages provided by the project manager. The document to be rated for relevancy could be a pdf or url to an article from a third party or could also be created by the project manager.
+The training data would come from pdf files or web pages provided by the user, the project manager. The document to be rated for relevancy could be a pdf or url to an article from a third party or could also be created by the project manager.
 
 
 ## Challenges
-
-What does your project _not_ solve? 
-Soem thought needs to be given to the dynamic nature of the words that are used to describe subjects - new terms emerge. How can that be addressed to esnure that emerging terminology is included in the relvance assessment.
+ 
+Some thought needs to be given to the dynamic nature of the words that are used to describe subjects - new terms emerge. How can that be addressed to ensure that emerging terminology is included in the relvancy assessment.
 
 ## What next?
 This could grow by use of the AI tool along with a web search to find the most relevant information sources for a work-project. 
